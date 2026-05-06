@@ -119,15 +119,3 @@ The proposed relaunch strategy demonstrates:
 * A/B Testing
 * Customer Segmentation
 
----
-
-## 📌 One-Line Description
-
-> Data-driven Wi-Tribe relaunch project combining brand strategy, market analytics, sentiment analysis, financial modeling, and UI/UX design.
-
----
-
-## 🔹 Short GitHub Repo Header Description
-
-Wi-Tribe rebranding and relaunch strategy project focused on broadband market recovery in Pakistan.
-Combines sentiment analysis, market research, financial modeling, and UI/UX prototyping for a modern ISP brand strategy.
